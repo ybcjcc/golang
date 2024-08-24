@@ -1,4 +1,4 @@
-module git.medlinker.com/golang/xerror
+module github.com/golang/xerror
 
 go 1.13
 
